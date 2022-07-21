@@ -1,0 +1,10 @@
+.check-align-col {
+	align-self: flex-start;
+	margin-top: 31px;
+}
+
+.employer-item + .employer-item {
+	margin-top: 20px;
+	padding-top: 10px;
+	border-top: 1px solid #eee;
+}
